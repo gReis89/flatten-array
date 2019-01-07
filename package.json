@@ -1,0 +1,28 @@
+{
+  "name": "flatten-array",
+  "version": "1.0.0",
+  "description": "flatten an array of arbitrarily nested arrays of integers into a flat array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gReis89/flatten-array.git"
+  },
+  "keywords": [
+    "javascript",
+    "flatten",
+    "array"
+  ],
+  "author": "guilherme.r89@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gReis89/flatten-array/issues"
+  },
+  "homepage": "https://github.com/gReis89/flatten-array#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
